@@ -3,6 +3,8 @@ title: "Microbial Community Analysis workshop"
 output:
   pdf_document: default
   html_notebook: default
+editor_options: 
+  chunk_output_type: console
 ---
 
 # Using the Phyloseq package
